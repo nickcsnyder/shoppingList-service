@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles ( title, content, date_published )
+VALUES
+('article One', 'content One', '8-14-20'),
+('article Two', 'content Two',' 8-19-20'),
+('article Three', 'content Three', '8-18-20'),
+('article Four', 'content Four', '8-17-20'),
+('article Five', 'content Five', '8-01-20'),
+('article Six', 'contentSix', '8-06-20'),
+('article Seven', 'contentSeven', '8-22-20'),
+('article Eight', 'contentEight', '8-11-20'),
+('article Nine', 'contentNine', '8-09-20'),
+('article Ten', 'contentTen', '8-23-20'),
+('article Eleven', 'contentEleven', '8-21-20'),
+('article Twelve', 'contentTwelve', '8-12-20'),
+('article Thirteen', 'contentThirteen', '8-16-20'),
+('article Fourteen', 'contentFourteen', '8-02-20'),
+('article Fifteen', 'contentFifteen', '8-28-20'),
+('article Sixteen', 'contentSixteen', '8-19-20'),
+('article Seventeen', 'contentSeventeen',' 8-11-20'),
+('article Eighteen', 'contentEighteen', '8-01-20'),
+('article Nineteen', 'contentNineteen', '8-22-20'),
+('article Twenty', 'contentTwenty', '8-15-20');
